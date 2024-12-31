@@ -68,7 +68,7 @@ def main():
 
     st.subheader("Enter a Stock name to get the latest news, stock insights, and analyst recommendations.")
 
-    question = st.text_area("Enter the Stock name:", placeholder="e.g., Tesla, Apple, Meta Platforms Inc")
+    question = st.text_area("Enter a Stock name:", placeholder="e.g., Tesla, Apple, Meta Platforms Inc")
 
     if st.button("Get Insights"):
         if not question.strip():
