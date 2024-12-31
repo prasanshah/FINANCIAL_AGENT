@@ -63,7 +63,7 @@ This application provides a detailed analysis of companies based on their latest
 - Enhance UI with charts and graphs for better visualization.
 
 ## Contact
-For any queries or suggestions, feel free to reach out to the project maintainer.
+For any queries or suggestions, feel free to reach out to me.
 prasanshah29@gmail.com
 https://www.linkedin.com/in/prasansshah/
 
