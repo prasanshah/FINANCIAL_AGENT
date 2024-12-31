@@ -64,6 +64,6 @@ This application provides a detailed analysis of companies based on their latest
 
 ## Contact
 For any queries or suggestions, feel free to reach out to me.
-prasanshah29@gmail.com
-https://www.linkedin.com/in/prasansshah/
+email me at: prasanshah29@gmail.com
+linkedin: https://www.linkedin.com/in/prasansshah/
 
