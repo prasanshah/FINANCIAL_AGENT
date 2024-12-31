@@ -76,7 +76,7 @@ def main():
             return
         
         try:
-            with st.spinner("Retrieving the latest company news and financial data..."):
+            with st.spinner("Retrieving the latest stock news and financial data..."):
                 response = multi_ai_agent.run(question)
                 
                 # Sanitize the response to avoid HTML/Math rendering issues
